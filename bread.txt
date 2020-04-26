@@ -1,7 +1,9 @@
 
-This is my standard loaf, and the base for most of my variations.
+This is my standard loaf, and the base for most of my variations.  A detailed
+listing of the steps are here: https://medium.com/@dgryski/step-by-step-30-whole-wheat-bread-61fe76332d05
 
-	100% AP
+	70% AP
+	30% whole wheat
 	2%  salt
 	0.6% yeast
 	65% hydration
