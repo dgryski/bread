@@ -17,8 +17,8 @@ Variations:
 	white loaf: reduce whole wheat to 10%, hydration to 63%
 	poppy loaf: white loaf + 5% poppy seeds
 	soft white: white loaf with 5% butter; use this for hamburger/hotdog buns
-	oatmeal: 10% oatmeal loaf instead of whole-wheat; presoak oats in water
-	multigrain: above 30% WW loaf with 8% cornmeal + 8% oats, 70% hydration
+	oatmeal: 10% oatmeal replaces some of whole-wheat; presoak oats in water
+	multigrain: above 30% WW loaf with pre-soaked 8% cornmeal and 8% oats, 70% hydration
 	raisin buns: one of the above loaves with 15-20% raisins (soaked)
 	light rye: 30% light rye, 1.25% caraway, 73% hydration
 	carrot bunnies: hydration 40%, 20% finely grated carrot
