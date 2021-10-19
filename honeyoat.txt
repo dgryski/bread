@@ -3,7 +3,7 @@ A tasty honey-oatmeal whole-wheat loaf.
 
 75% AP
 25% WW
-16.5% rolled oats (soaked)
+16.5% rolled oats
 62.5% water
 11% milk
 7.5% honey
@@ -11,6 +11,7 @@ A tasty honey-oatmeal whole-wheat loaf.
 2.2% salt
 1.7% yeast
 
-Mix as usual.  Bulk ferment 2h or overnight in the fridge, folding after the first hour.
-After shaping, wet the top and sprinkle with oatmeal.  Bulk ferment for 1h-1.5h.  Bake
-with steam for at 30-40m @ 450F.
+Scale water and add oats.  Let soak 20 minutes. Add the rest of the ingredients
+and Mix as usual.  Bulk ferment 2h or overnight in the fridge, folding after
+the first hour.  After shaping, wet the top and sprinkle with oatmeal.  Bulk
+ferment for 1h-1.5h.  Bake with steam for at 30-40m @ 450F.
