@@ -2,6 +2,14 @@
 This is my standard enriched white dough.  I use it for sweet things like fruit
 breads, cinnamon rolls, and hot cross buns.
 
+I've actually seen enriched dough recipes with values for the sugar/butter/egg
+percents anywhere from 8% to 25%, so feel free to experiment.  Going much
+higher than 25% will lead you into brioche territory. Note that you'll need to
+lower the water percentage to account for the additional liquid from the egg
+and butter.  For hydration purposes, 75% of an egg counts towards hydration,
+and 20% of the butter (15% if using European butter). The 10/10/10 dough then
+has roughly 53.5% + 0.75 * 10% + 0.2 * 10% = 63% hydration.
+
 100% AP
 2% salt
 1% instant yeast
